@@ -1,3 +1,5 @@
+# not complete
+
 def generateDataStructure(comp):
     original = comp
     ds = []
